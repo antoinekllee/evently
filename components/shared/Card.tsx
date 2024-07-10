@@ -81,7 +81,6 @@ const Card = ({ event, hasOrderLink, hidePrice }: CardProps) =>
                             />
                         </Link>
                     )}
-
                 </div>
             </div>
                 
